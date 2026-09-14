@@ -30,7 +30,9 @@ This project analyzes pizza sales data to identify important business insights s
 Pizza-Sales-Analysis/
 │
 ├── Dashboard/
-│   └── first.pbix
+│   ├── first.pbix
+│   ├── pizza-sales-dashboard.png
+│   └── best-worst-sellers.png
 │
 ├── Pizza sales Image/
 │   ├── delivery-man.png
@@ -46,3 +48,14 @@ Pizza-Sales-Analysis/
 ├── pizza_sales.csv
 ├── pizza_sales_excel_file.xlsx
 └── SQL Query.sql
+```
+
+## 📊 Power BI Dashboard
+
+### 🏠 Dashboard 1 – Sales Overview
+
+![Pizza Sales Dashboard](Pizza-Sales-Analysis/Dashboard/pizza-sales-dashboard.png)
+
+### 🏆 Dashboard 2 – Best/Worst Sellers
+
+![Best Worst Sellers Dashboard](Pizza-Sales-Analysis/Dashboard/best-worst-sellers.png)
